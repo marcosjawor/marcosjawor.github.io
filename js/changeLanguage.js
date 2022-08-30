@@ -12,7 +12,7 @@ var language = {
     baner_2_consultation: {en: "Consultation", pl: "Konsultacje", es: "Consulta"},
     baner_2_button: {en: "Read more", pl: "Zobacz więcej", es: "Leer más"},
     baner_3_text: {en: "Call me to schedule the first session", pl: "Przed wizytą proszę o kontakt telefoniczny", es: "Por favor, póngase en contacto por teléfono para concertar la primera sesión"},
-    baner_3_phone: {en: "tel. +48 508 56 24 56", pl: "tel. 508 56 24 56", es: "tel. +48 508 56 24 56"},
+    baner_3_phone: {en: "tel. +48 508 56 24 56", pl: "tel. + 48 508 56 24 56", es: "tel. +48 508 56 24 56"},
     baner_3_button: {en: "Read more", pl: "Zobacz więcej", es: "Leer más"},
     for_whom_title: {en: "For whom", pl: "Dla kogo", es: "Para quién"},
     for_whom_desc: {en: "The office welcome those who:", pl: "Do gabinetu zapraszam osoby, które:", es: "Están invitados a la consulta quienes:"},
