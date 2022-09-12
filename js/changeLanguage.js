@@ -4,7 +4,7 @@ var language = {
     menu_about: {en: "ABOUT ME", pl: "O MNIE", es: "SOBRE MÍ"},
     menu_how: {en: "HOW", pl: "FORMA PRACY", es: "METODOLOGÍA"},
     menu_contact: {en: "CONTACT", pl: "KONTAKT", es: "CONTACTO"},
-    baner_1_title: {en: "<br><br><br>PSYCHOTERAPY", pl: "<br><br><br>GABINET PSYCHOTERAPII", es: "<br><br><br>GABINETE DE PSICOTERAPIA"},
+    baner_1_title: {en: "<br><br>PSYCHOTERAPY", pl: "<br><br>GABINET PSYCHOTERAPII", es: "<br><br>GABINETE DE PSICOTERAPIA"},
     baner_1_button: {en: "Read more", pl: "Zobacz więcej", es: "Leer más"},
     baner_2_individual: {en: "Individual Therapy", pl: "Terapia Indywidualna", es: "Terapia Individual"},
     baner_2_online: {en: "On-line Therapy", pl: "Terapia On-line", es: "Terapia On-line"},
