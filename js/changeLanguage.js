@@ -42,53 +42,65 @@ var language = {
     for_whom_col2_4_point1: {en: "want to develop and improve their quality of life", pl: "chcą się rozwijać i poprawiać jakość swojego życia", es: "quieren desarrollar y mejorar su calidad de vida"},
     for_whom_col2_4_point2: {en: "want to build healthy and good relationships with other people", pl: "chcą budować zdrowe i dobre relacje z innymi ludźmi", es: "quieren establecer relaciones sanas y buenas con otras personas"},
     about_title: {en: "About me", pl: "O mnie", es: "Sobre mí"},
-    about_text_p1: {en: `I completed my comprehensive (4-year) training in psychotherapy at the Institute of Integral Gestalt Psychotherapy in Cracow, which is a centre accredited by EAGT - European Association for Gestalt Therapy. I also gained professional experience during my clinical internship under the supervision of Prof. Łukasz Święcicki at the Department of Affective Disorders at the Institute of Psychiatry and Neurology in Warsaw.
+    about_text_p1: {en: `I am a certified psychotherapist of the Polish Society for Gestalt Psychotherapy (PTPG) and the European Association for Gestalt Psychotherapy (EAGT). I provide short-term and long-term psychotherapy for adults and adolescents. Since 2021 I am also a team member of the Institute of Integral Gestalt Psychotherapy, training future psychotherapists - https://gestalt.edu.pl/zespol/.
                     <br>
                     <br>
-                    In addition to my training in psychotherapy, I also completed a workshop recommended by the Polish Society of Sexology: "European Sexual Diversity Training". I am one of the therapists who form a network at KPH to provide psychological support to LGBTQ people and their families: https://kph.org.pl/pomoc/pomoc-psychologiczna/.
+                    I gained my professional experience during my clinical internship at the Department of Affective Disorders at the Institute of Psychiatry and Neurology in Warsaw. I was also a trainee at the Children and Youth Problem Solving Centre, operating at the Municipal Team for Prevention and Treatment of Addictions in Olsztyn. There I conducted youth, family and group therapy.
                     <br>
                     <br>
-                    Taking care of the high quality of my work, I am subject to constant supervision and am guided by the Code of Ethics of the Polish Society of Gestalt Psychotherapy. My first degree is a Doctor of Humanities in Philosophy. I have been working at the Institute of Philosophy at UWM in Olsztyn for over 10 years.
+                    In addition to my psychotherapy studies, I also completed a workshop recommended by the Polish Society of Sexology: "European Sexual Diversity Training". Additionally, I participated in a training on psychological support for transgender people. I am one of the therapists who form the KPH network of people providing psychological support to LGBTQ people and their families: https://kph.org.pl/pomoc/pomoc-psychologiczna/.
                     <br>
                     <br>
-                    Training and conferences:`,
-
-                    pl: `Całościowe (4-letnie) szkolenie z zakresu psychoterapii ukończyłem w Instytucie Integralnej
-                    Psychoterapii Gestalt w Krakowie, który jest ośrodkiem akredytowanym przez EAGT - European
-                    Association for Gestalt Therapy (Europejskie Stowarzyszenie Terapii Gestalt). Doświadczenie
-                    zawodowe zdobywałem również podczas stażu klinicznego, który odbyłem pod okiem prof. Łukasza
-                    Święcickiego na Oddziale Chorób Afektywnych w Instytucie Psychiatrii i Neurologii w
-                    Warszawie.
+                    Moreover, I have been working at the Institute of Philosophy at UWM for 15 years in a research and teaching position.
                     <br>
                     <br>
-                    Poza szkoleniami z zakresu psychoterapii ukończyłem również warsztat rekomendowany przez
-                    Polskie Towarzystwo Seksuologiczne: „European Sexual Diversity Training”. Należę do
-                    terapeutów, którzy tworzą przy KPH sieć osób udzielających wsparcia psychologicznego osobom
-                    LGBTQ i ich rodzinom: https://kph.org.pl/pomoc/pomoc-psychologiczna/
+                    Taking care of the high quality of my work, I am subject to constant supervision and follow the Code of Ethics of the Polish Association for Gestalt Psychotherapy. 
                     <br>
                     <br>
-                    Dbając o wysoką jakość swojej pracy podlegam stałej superwizji oraz kieruję się Kodeksem
-                    Etyki Polskiego Towarzystwa Psychoterapii Gestalt. Z pierwszego wykształcenia jestem doktorem nauk humanistycznych w zakresie filozofii. Od
-                    ponad 10 lat pracuję w Instytucie Filozofii UWM w Olsztynie.
+                    I work on-line, while I run my office in Alicante, Spain.`,
+                    pl: `Jestem certyfikowanym psychoterapeutą Polskiego Towarzystwa Psychoterapii Gestalt (PTPG) oraz Europejskiego Towarzystwa Psychoterapii Gestalt (EAGT). Prowadzę psychoterapię krótkoterminową i długoterminową osób dorosłych i młodzieży. Od 2021 roku jestem również członkiem zespołu Instytutu Integralnej Psychoterapii Gestalt, kształcącego przyszłych psychoterapeutów - https://gestalt.edu.pl/zespol/ 
                     <br>
                     <br>
-                    Szkolenia i konferencję:`,
-                    es: `
-                    Completé mi formación integral (4 años) en psicoterapia en el Instituto de Psicoterapia Gestalt Integral de Cracovia, un centro acreditado por la EAGT - Asociación Europea de Terapia Gestalt. Además, adquirí experiencia profesional durante mis prácticas clínicas bajo la supervisión del profesor Łukasz Święcicki en el Departamento de Trastornos Afectivos del Instituto de Psiquiatría y Neurología de Varsovia.
+                    Doświadczenie zawodowe zdobywałem podczas stażu klinicznego, który odbywałem na Oddziale Chorób Afektywnych w Instytucie Psychiatrii i Neurologii w Warszawie. Byłem także stażystą w Centrum Rozwiązywania Problemów Dzieci i Młodzieży, działającym przy Miejskim Zespole Profilaktyki i Terapii Uzależnień w Olsztynie. Prowadziłem tam terapię młodzieży, rodzinną i grupową.
                     <br>
                     <br>
-                    Además de mi formación en psicoterapia, también completé un taller recomendado por la Sociedad Polaca de Sexología: "Formación europea en diversidad sexual". Soy uno de los terapeutas que forman una red en KPH para proporcionar apoyo psicológico a las personas LGBTQ y sus familias: https://kph.org.pl/pomoc/pomoc-psychologiczna/.
+                    Poza szkoleniami z zakresu psychoterapii ukończyłem również warsztat rekomendowany przez Polskie Towarzystwo Seksuologiczne: „European Sexual Diversity Training”. Dodatkowo uczestniczyłem w szkoleniu dotyczącym pomocy psychologicznej osobom transpłciowym. Należę do terapeutów, którzy tworzą przy KPH sieć osób udzielających wsparcia psychologicznego osobom LGBTQ i ich rodzinom: https://kph.org.pl/pomoc/pomoc-psychologiczna/
                     <br>
                     <br>
-                    Velando por la alta calidad de mi trabajo, estoy sometida a una supervisión constante y me guío por el Código Ético de la Sociedad Polaca de Psicoterapia Gestalt. Mi primer título es el de Doctor en Humanidades en Filosofía. Llevo más de 10 años trabajando en el Instituto de Filosofía de la UWM en Olsztyn.
+                    Ponadto, od 15 lat pracuję w Instytucie Filozofii UWM na stanowisku naukowo-dydaktycznym.
                     <br>
                     <br>
-                    Formación y disertaciones:`},
-    about_bullet_1: {en: "'The university towards students with mental disorders'", pl: "'Uczelnia wobec studentów z zaburzeniami psychicznymi'", es: "'La universidad ante los estudiantes con trastornos mentales'"},
-    about_bullet_2: {en: "workshop 'Phenomenology of Situations or Relationships in Gestalt Therapy Gestalt' conducted by the director of the Gestalt Institute in Oslo - Daan van Baalen", pl: "warsztat 'Fenomenologia sytuacji lub relacji w Terapii Gestalt' prowadzony przez dyrektora Instytutu Gestalt w Oslo - Daana van Baalena", es: "taller 'Fenomenología de las situaciones o de las relaciones en la terapia gestáltica Gestalt' dirigido por el director del Instituto Gestalt de Oslo - Daan van Baalen"}, 
-    about_bullet_3: {en: "philosophical-psychiatric seminar 'Relationships'", pl: "seminarium filozoficzno-psychiatryczne pt. 'Relacje'", es: "seminario filosófico-psiquiátrico 'Relaciones'"},
-    about_bullet_4: {en: "scientific conference 'Around the person of the psychotherapist. Clinical Reflection and Research Results' (Rasht Institute for Group Analysis)", pl: "konferencja naukowa 'Wokół osoby psychoterapeuty. Refleksja kliniczna i wyniki badań naukowych' (Instytu Analizy Grupowej 'Rasztów')", es: "conferencia científica 'En torno a la persona del psicoterapeuta. Reflexión clínica y resultados de la investigación' (Instituto Rasht de Análisis Grupal)"},
-    about_bullet_5: {en: "workshop in the field of sexuality entitled. 'Therapeutic Work in the Erotic Field' conducted by Dr. Adam Kincla (Association for Advancements in Gestalt Therapy)", pl: "warsztat z zakresu seksualności pt. 'Praca terapeutyczna w obszarze pola erotycznego' prowadzony przez dr Adama Kincla (Association for Advancements in Gestalt Therapy)", es: "taller en el ámbito de la sexualidad titulado. 'Trabajo terapéutico en el campo erótico' dirigido por el Dr. Adam Kincla (Asociación para el Avance de la Terapia Gestalt)"},
+                    Dbając o wysoką jakość swojej pracy podlegam stałej superwizji oraz kieruję się Kodeksem Etyki Polskiego Towarzystwa Psychoterapii Gestalt. 
+                    <br>
+                    <br>
+                    Pracuję on-line, zaś stacjonarny gabinet prowadzę w Alicante w Hiszpani`,
+                    es: `Soy psicoterapeuta certificado por la Sociedad Polaca de Psicoterapia Gestalt (PTPG) y de la Asociación Europea de Psicoterapia Gestalt (EAGT). Proporciono psicoterapia a corto y largo plazo para adultos y adolescentes. Desde 2021 también soy miembro del equipo del Instituto de Psicoterapia Gestalt Integral, formando a futuros psicoterapeutas - https://gestalt.edu.pl/zespol/.
+                    <br>
+                    <br>
+                    Adquirí mi experiencia profesional durante mis prácticas clínicas en el Departamento de Trastornos Afectivos del Instituto de Psiquiatría y Neurología de Varsovia. También desarrollé prácticas en el Centro de Resolución de Problemas en Niños y Adolescentes, como parte del Equipo Municipal de Prevención y Tratamiento de Adicciones de Olsztyn. Allí llevé a cabo terapias para jóvenes, familias y grupos.
+                    <br>
+                    <br>
+                    Además de la formación en psicoterapia, también realicé un taller recomendado por la Sociedad Polaca de Sexología: "Formación europea sobre diversidad sexual". Además, participé en una formación sobre apoyo psicológico para personas transgénero. Soy uno de los terapeutas que forman la red KPH de personas que prestan apoyo psicológico a las personas LGBTQ y sus familias: https://kph.org.pl/pomoc/pomoc-psychologiczna/.
+                    <br>
+                    <br>
+                    Por otra parte, llevo 15 años trabajando en el Instituto de Filosofía de la UWM en un puesto de investigación y docencia.
+                    <br>
+                    <br>
+                    Cuidando la alta calidad de mi trabajo, estoy sujeto a una supervisión constante y sigo el Código de Ética de la Asociación Polaca de Psicoterapia Gestalt. 
+                    <br>
+                    <br>
+                    Trabajo en línea, mientras dirijo mi oficina fija en Alicante, España.`},
+    about_bullet_1: {en: "<b>Education</b>", pl: "<b>Edukacja</b>", es: "<b>Formación</b>"},
+    about_bullet_1_1: {en: "School of Group Psychotherapists and Trainers, IIPG and ITG", pl: "Szkoła Psychoterapeutów i Trenerów Grupowych, IIPG oraz ITG", es: "Escuela de Psicoterapeutas de Grupo y Formadores, IIPG e ITG"},
+    about_bullet_1_2: {en: "PhD of Humanities in the discipline of philosophy, specialisation: history of philosophy, philosophical anthropology and ethics", pl: "doktor nauk humanistycznych w dyscyplinie filozofia, specjalność: historia filozofii, antropologia filozoficzna i etyka", es: "Doctor en Humanidades en la disciplina de filosofía, especialidad: historia de la filosofía, antropología filosófica y ética"},
+    about_bullet_1_3: {en: "training in psychological support for LGBT+ people", pl: "szkolenia z zakresu wsparcia psychologicznego osób LGBT+", es: "formación en apoyo psicológico para personas LGBT+"},
+    about_bullet_2: {en: "<b>Certifications</b>", pl: "<b>Certyfikaty</b>", es: "<b>Certificaciones</b>"}, 
+    about_bullet_2_1: {en: "Certified Psychotherapist, PTPG", pl: "Certyfikat Psychoterapeuty, PTPG", es: "Psicoterapeuta certificado, PTPG"}, 
+    about_bullet_2_2: {en: "Certified Gestalt Psychotherapist, EAGT", pl: "Certyfikat Psychoterapeuty Gestalt, EAGT", es: "Psicoterapeuta Gestalt certificado, EAGT"}, 
+    about_bullet_3: {en: "<b>Professional Organisations</b>", pl: "<b>Organizacje zawodowe</b>", es: "<b>Organizaciones Profesionales</b>"},
+    about_bullet_3_1: {en: "Polish Association for Gestalt Psychotherapy, Chair of the Scientific Commission (since 2021).", pl: "Polskie Towarzystwo Psychoterapii Gestalt, przewodniczący Komisji Naukowej (od 2021r.)", es: "Asociación Polaca de Psicoterapia Gestalt, Presidente de la Comisión Científica (desde 2021r.)"},
+    about_bullet_3_2: {en: "European Association for Gestalt Therapy, member", pl: "European Association for Gestalt Therapy, członek", es: "European Association for Gestalt Therapy, miembro"},
+    about_bullet_3_3: {en: "Polish Philosophical Society, member", pl: "Polskie Towarzystwo Filozoficzne, członek", es: "Sociedad Filosófica Polaca, miembro"},
     about_button: {en: "FOR WHOM", pl: "DLA KOGO", es: "PARA QUIÉN"},
     how_title: {en: "HOW", pl: "FORMA PRACY", es: "METODOLOGÍA"},
     how_p1: {en: "<font size='4'>Gestalt Psycotherapy", pl: "<font size='4'>Psychoterapia Gestalt", es: "<font size='4'>Psicoterapia Gestalt"},
