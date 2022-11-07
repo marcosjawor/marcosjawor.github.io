@@ -12,7 +12,7 @@ var language = {
     baner_2_consultation: {en: "Consultation", pl: "Konsultacje", es: "Consulta"},
     baner_2_button: {en: "Read more", pl: "Zobacz więcej", es: "Leer más"},
     baner_3_text: {en: "Call me to schedule the first session", pl: "Przed wizytą proszę o kontakt telefoniczny", es: "Por favor, póngase en contacto por teléfono para concertar la primera sesión"},
-    baner_3_phone: {en: "tel. +48 508 56 24 56", pl: "tel. + 48 508 56 24 56", es: "tel. +48 508 56 24 56"},
+    baner_3_phone: {en: "tel. + 34 644 38 33 23<br><br>tel. + 48 508 56 24 56", pl: "tel. + 34 644 38 33 23<br><br>tel. + 48 508 56 24 56", es: "tel. + 34 644 38 33 23<br><br>tel. + 48 508 56 24 56"},
     baner_3_button: {en: "Read more", pl: "Zobacz więcej", es: "Leer más"},
     for_whom_title: {en: "For whom", pl: "Dla kogo", es: "Para quién"},
     for_whom_desc: {en: "The office welcome those who:", pl: "Do gabinetu zapraszam osoby, które:", es: "Están invitados a la consulta quienes:"},
@@ -118,7 +118,8 @@ var language = {
     contact_address_2: {en: "<font size='4px'>gabinet nr 318 (III piętro)", pl: "<font size='4px'>gabinet nr 318 (III piętro)", es: "<font size='4px'>gabinet nr 318 (III piętro)"},
     contact_address_3: {en: "<font size='4px'>10-501 Olsztyn", pl: "<font size='4px'>10-501 Olsztyn", es: "<font size='4px'>10-501 Olsztyn"},
     contact_phone_title: {en: "Phone", pl: "Telefon", es: "Teléfono"},
-    contact_phone: {en: "<font size='4px'>+48 508 562 456", pl: "<font size='4px'>+48 508 562 456", es: "<font size='4px'>+48 508 562 456"}
+    contact_phone_1: {en: "<font size='3px'>+ 34 644 38 33 23", pl: "<font size='3px'>+ 34 644 38 33 23", es: "<font size='3px'>+ 34 644 38 33 23"},
+    contact_phone_2: {en: "<font size='3px'>+ 48 508 56 24 56", pl: "<font size='3px'>+ 48 508 56 24 56", es: "<font size='3px'>+ 48 508 56 24 56"}
 };
 
 function updateLanguage(value) {
