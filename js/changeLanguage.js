@@ -114,9 +114,9 @@ var language = {
     contact_title: {en: "CONTACT ME", pl: "KONTAKT ZE MNĄ", es: "CONTÁCTAME"},
     contact_subtitle: {en: "<font size='4px'>Please call in advance before visiting.", pl: "<font size='4px'>Przed wizytą proszę o wcześniejszy kontakt telefoniczny.", es: "<font size='4px'>Se ruega llamar con antelación antes de la visita."},
     contact_address_title: {en: "Address", pl: "Adres", es: "Dirección"},
-    contact_address_1: {en: "<font size='4px'>ul. Kościuszki 13", pl: "<font size='4px'>ul. Kościuszki 13", es: "<font size='4px'>ul. Kościuszki 13"},
-    contact_address_2: {en: "<font size='4px'>gabinet nr 318 (III piętro)", pl: "<font size='4px'>gabinet nr 318 (III piętro)", es: "<font size='4px'>gabinet nr 318 (III piętro)"},
-    contact_address_3: {en: "<font size='4px'>10-501 Olsztyn", pl: "<font size='4px'>10-501 Olsztyn", es: "<font size='4px'>10-501 Olsztyn"},
+    contact_address_1: {en: "<font size='4px'>Avenida Villajoyosa 37", pl: "<font size='4px'>Avenida Villajoyosa 37", es: "<font size='4px'>Avenida Villajoyosa 37"},
+    contact_address_2: {en: "<font size='4px'>Local E", pl: "<font size=Local E", es: "<font size='4px'>Local E"},
+    contact_address_3: {en: "<font size='4px'>03016 Alicante", pl: "<font size='4px'>03016 Alicante", es: "<font size='4px'>03016 Alicante"},
     contact_phone_title: {en: "Phone", pl: "Telefon", es: "Teléfono"},
     contact_phone_1: {en: "<font size='3px'>+ 34 644 38 33 23", pl: "<font size='3px'>+ 34 644 38 33 23", es: "<font size='3px'>+ 34 644 38 33 23"},
     contact_phone_2: {en: "<font size='3px'>+ 48 508 56 24 56", pl: "<font size='3px'>+ 48 508 56 24 56", es: "<font size='3px'>+ 48 508 56 24 56"}
