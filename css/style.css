@@ -602,6 +602,7 @@ p {font-size: 13px; line-height: 20px; font-weight: 300; font-family: 'Raleway',
 	.main-detail-slider.type-2 {padding: 80px 0px;}
 	.org_icon {margin-right: 3cm;}
 	.bg_about {background-size:100%;}
+	.bg.front {background-position: 90%;}
 }
 @media (max-width: 768px) {
 	.h1 {font-size: 50px; line-height: 60px;}
